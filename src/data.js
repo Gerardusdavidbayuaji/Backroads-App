@@ -1,7 +1,12 @@
-import tour1 from "./images/tour-1.jpeg";
-import tour2 from "./images/tour-2.jpeg";
-import tour3 from "./images/tour-3.jpeg";
-import tour4 from "./images/tour-4.jpeg";
+import tour1 from "./images/tour-1.jpg";
+import tour2 from "./images/tour-2.jpg";
+import tour3 from "./images/tour-3.jpg";
+import tour4 from "./images/tour-4.jpg";
+import tour5 from "./images/tour-5.jpg";
+import tour6 from "./images/tour-6.jpg";
+import tour7 from "./images/tour-7.jpg";
+import tour8 from "./images/tour-8.jpg";
+import tour9 from "./images/tour-9.jpg";
 
 export const pageLinks = [
   { id: 1, href: "#home", text: "home" },
@@ -42,40 +47,90 @@ export const tours = [
     id: 1,
     image: tour1,
     date: "august 26th, 2024",
-    title: "Tibet Adventure",
+    title: "best of java",
     info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
-    location: "china",
-    duration: 6,
-    cost: 2100,
+    location: "east java",
+    duration: 3,
+    cost: 250,
   },
   {
     id: 2,
     image: tour2,
-    date: "october 1th, 2024",
+    date: "april 1th, 2024",
     title: "best of java",
     info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
-    location: "indonesia",
-    duration: 11,
-    cost: 1400,
+    location: "east java",
+    duration: 3,
+    cost: 250,
   },
   {
     id: 3,
     image: tour3,
-    date: "september 15th, 2024",
-    title: "explore hong kong",
+    date: "march 15th, 2024",
+    title: "explore bali",
     info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
-    location: "hong kong",
-    duration: 8,
-    cost: 5000,
+    location: "bali",
+    duration: 2,
+    cost: 250,
   },
   {
     id: 4,
     image: tour4,
-    date: "december 5th, 2024",
-    title: "kenya highlights",
+    date: "february 12th, 2024",
+    title: "explore labuan bajo",
     info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
-    location: "kenya",
-    duration: 20,
-    cost: 3300,
+    location: "east nusa tenggara",
+    duration: 4,
+    cost: 250,
+  },
+  {
+    id: 5,
+    image: tour5,
+    date: "january 8th, 2024",
+    title: "bali highlights",
+    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    location: "bali",
+    duration: 2,
+    cost: 250,
+  },
+  {
+    id: 6,
+    image: tour6,
+    date: "march 7th, 2024",
+    title: "bali highlights",
+    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    location: "bali",
+    duration: 1,
+    cost: 250,
+  },
+  {
+    id: 7,
+    image: tour7,
+    date: "january 9th, 2024",
+    title: "bali highlights",
+    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    location: "bali",
+    duration: 2,
+    cost: 250,
+  },
+  {
+    id: 8,
+    image: tour8,
+    date: "april 5th, 2024",
+    title: "bali highlights",
+    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    location: "bali",
+    duration: 2,
+    cost: 250,
+  },
+  {
+    id: 9,
+    image: tour9,
+    date: "january 10th, 2024",
+    title: "bali highlights",
+    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    location: "bali",
+    duration: 2,
+    cost: 250,
   },
 ];
